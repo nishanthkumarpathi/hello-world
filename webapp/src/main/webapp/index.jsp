@@ -1,4 +1,4 @@
-<h1> Welcome to Valaxy Technologies </h1>
-<h2> Steup and deploy using ansible </h2>
+<h1> Welcome to BIBF Application</h1>
+<h2> Register now for DevOps for Software Developers Course</h2>
 
 
